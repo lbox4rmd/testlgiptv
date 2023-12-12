@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:50,TV8 group-title="ROGeneral", TV8
+#EXTINF:0 tvg-id="TV8" group-title="ROGeneral", TV8
 https://live1.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=cbc9ce3e8e75aae0255bc5924214ae6adae2f803
-#EXTINF:0,Moldova 1 (1080p) group-title="ROGeneral", Moldova1
+#EXTINF:0 tvg-id="Moldova 1" group-title="ROGeneral", Moldova1
 https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/0.m3u8
-#EXTINF:0,Moldova 2 (1080p) group-title="ROGeneral", Moldova2
+#EXTINF:0 tvg-id="Moldova 2" group-title="ROGeneral", Moldova2
 https://v3.trm.md/static/streaming-playlists/hls/a841f731-6c85-4177-a8c3-985f9f68b6fb/0.m3u8
-#EXTINF:-1 tvg-id="TezaurTV.md" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="ROMusic",Tezaur TV
+#EXTINF:0 tvg-id="TezaurTV" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="ROMusic",Tezaur TV MD
 http://tezaur.mlbfan.org/tezaur/index.m3u8
-#EXTINF:-1 tvg-id="TezaurTV.ro" tvg-logo="https://i.imgur.com/t5eDZxU.png" group-title="ROMusic",Tezaur TV
+#EXTINF:0 tvg-id="TezaurTV.ro" tvg-logo="https://i.imgur.com/t5eDZxU.png" group-title="ROMusic",Tezaur TV RO
 https://testcam.go.ro:8080/hls/tezaurtv.m3u8
-#EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" group-title="Music",Traditional TV
+#EXTINF:0 tvg-id="TraditionalTV" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" group-title="Music",Traditional TV
 http://83.103.149.75:8085/udp/239.30.0.9:4000
-#EXTINF:-1 tvg-id="TrinitasTV.ro" tvg-logo="https://i.imgur.com/mOPEttN.png" group-title="Religious",Trinitas TV
+#EXTINF:0 tvg-id="TrinitasTV" tvg-logo="https://i.imgur.com/mOPEttN.png" group-title="Religious",Trinitas TV
 https://ythls.armelin.one/channel/UCcqFHIDYfKsaJ5KXZjzW7ZQ.m3u8
-#EXTINF:-1 tvg-id="NorocTV.md" tvg-logo="https://i.imgur.com/XvYqpqG.png" group-title="ROmusic",Noroc TV
+#EXTINF:0 tvg-id="NorocTV" tvg-logo="https://i.imgur.com/XvYqpqG.png" group-title="ROmusic",Noroc TV
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="ROGeneral",Vocea Basarabiei TV
+#EXTINF:0 tvg-id="VoceaBasarabieiTV" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="ROGeneral", Vocea Basarabiei TV
 https://storage.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
-#EXTINF:-1 tvg-id="BusuiocTV.md" tvg-logo="https://i.imgur.com/CQtfBPu.png" group-title="ROMusic",Busuioc TV
+#EXTINF:0 tvg-id="BusuiocTV" tvg-logo="https://i.imgur.com/CQtfBPu.png" group-title="ROMusic", Busuioc TV
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
-#EXTINF:0,TVR Moldova (720p) [Not 24/7]
+#EXTINF:0, tvg-id="TVR Moldova" group-title="ROGeneral", TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
-#EXTINF:0,Moldova TV (576p) [Not 24/7]
+#EXTINF:0, tvg-id="Moldova TV" group-title="ROGeneral", Moldova TV 
 http://89.38.8.130:39435
-#EXTINF:0,Realitatea Live (406p)
+#EXTINF:0, tvg-id="Realitatea Live" group-title="ROGeneral", Realitatea Live
 https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:0,TeleM (576p)
+#EXTINF:0, tvg-id="TeleM" group-title="ROGeneral", TeleM (576p)
 https://tv.streambox.ro/hls/telem/index.m3u8
-#EXTINF:-1 tvg-id="TVSE.ro" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="ROGeneral",TV SE
+#EXTINF:0, tvg-id="TVSE.ro" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="ROGeneral",TV SE
 http://89.38.8.130:39419
-#EXTINF:0,viju Serial group-title="Series", viju Serial
+#EXTINF:0, viju Serial group-title="Series", viju Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Viju Nature tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Documentary",viju Nature
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
