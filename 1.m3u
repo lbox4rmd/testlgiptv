@@ -272,3 +272,5 @@ http://autopilot.catcast.tv/content/39575/index.m3u8
 #EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Education" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="chizhik" group-title="👶 Kids",Чижик HD
+http://cdn-lb.iptv2022.com/p/dvMrjmgVhiGlE_V3_FYFlA,1697749212/streaming/chizhikhd/324/1/index.m3u8
