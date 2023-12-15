@@ -23,14 +23,14 @@ http://89.38.8.130:39435
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:0, tvg-id="TeleM" group-title="ROGeneral", TeleM (576p)
 https://tv.streambox.ro/hls/telem/index.m3u8
-#EXTINF:-1 tvg-id="AmediaHitHD.ru" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="Movies;Series",Amedia Hit HD
-http://moobl.ru/hls/Amedia_hit_hd.m3u8
 #EXTINF:-1 tvg-id="AmediaPremiumHD.ru" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="Movies;Series",Amedia Premium HD
 http://moobl.ru/hls/Amedia_Premium_hd.m3u8
 #EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Series",A2
 http://europe3.livetv.az/russia/amedia2/playlist.m3u8
-#EXTINF:-1 tvg-id="A7TV.ro" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="General",A7TV
-https://ythls.armelin.one/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Movies",Viju+ Megahit HD
+https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
+#EXTINF:-1 tvg-id="khit-hd" group-title="Movies",Хит
+http://cdn-lb.iptv2022.com/p/TLY9dPvazl78Q24Q-Ucaag,1697749211/streaming/hit/324/1/index.m3u8
 #EXTINF:-1 tvg-id="AcasaTV.md" tvg-logo="https://i.imgur.com/k8qpvHb.png" group-title="",Acasa TV
 http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="General",Agro TV
