@@ -27,10 +27,42 @@ https://tv.streambox.ro/hls/telem/index.m3u8
 http://moobl.ru/hls/Amedia_Premium_hd.m3u8
 #EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Series",A2
 http://europe3.livetv.az/russia/amedia2/playlist.m3u8
-#EXTINF:-1 tvg-id="vip-megahit" group-title="Movies",Viju+ Megahit HD
+#EXTINF:-1 tvg-id="vip-megahit" group-title="MoviesRU",Viju+ Megahit HD
 https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
+#EXTINF:-1 tvg-id="vip-serial" group-title="MoviesRU",Viju+ Serial HD
+https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="MoviesRU",Viju TV1000 Русское HD
+https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
+#EXTINF:-1 tvg-id="fox" group-title="MoviesRU",Fox HD
+http://moobl.ru/hls/Fox_HD.m3u8
+#EXTINF:-1 tvg-id="mosfilm" group-title="MoviesRU",Мосфильм. Золотая коллекция HD
+http://moobl.ru/hls/Mosfilm_hd.m3u8
 #EXTINF:-1 tvg-id="khit-hd" group-title="Movies",Хит
 http://cdn-lb.iptv2022.com/p/TLY9dPvazl78Q24Q-Ucaag,1697749211/streaming/hit/324/1/index.m3u8
+#EXTINF:-1 tvg-id="nash-kinopokaz" group-title="MoviesRU",Наш Кинопоказ
+http://cdn-lb.iptv2022.com/p/bvcavFDJ5-4UeLfN7xKm4Q,1697749211/streaming/nashpokaz/324/1/index.m3u8
+#EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="MoviesRU",Наше Мужское HD
+http://moobl.ru/hls/Nashe_muzhskoe_hd.m3u8
+#EXTINF:-1 tvg-id="kinoboevik-kz" group-title="MoviesRU",КиноБоевик HD KZ
+http://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
+#EXTINF:-1 tvg-id="premium-kino-kz" group-title="MoviesRU",Премиум Кино KZ
+http://ucdn.beetv.kz/btv/live/hls/000008491.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.goodgame.ru/files/avatars/av_1436027_vOPJ.jpg" group-title="MoviesRU",Фантастика HD
+http://195.9.195.3:8080/hls/187241.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.catcast.tv/banners/73c89564952d3c798ae48eaced64f656.png" group-title="MoviesRU",Видеосалон VHS HD
+http://195.9.195.3:8080/hls/175764.m3u8
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="MoviesRU",Filmbox
+http://moobl.ru/hls/Filmbox.m3u8
+#EXTINF:-1 tvg-id="atv-kinoman" group-title="MoviesRU",ATV Kinoman HD
+http://moobl.ru/hls/Kinoman_hd.m3u8
+#EXTINF:-1 tvg-id="kinosat" group-title="MoviesRU",Киносат
+http://cdn-lb.iptv2022.com/p/WSMYqwQGeajePMwNLyWwmQ,1697749212/streaming/kinosat/324/1/index.m3u8
+#EXTINF:-1 tvg-id="kinosezon" group-title="MoviesRU",Киносезон
+http://cdn-lb.iptv2022.com/p/lHC8soskuRZ4sWwaV4VHJA,1700251079/streaming/kinosezon/324/1/index.m3u8
+#EXTINF:-1 tvg-id="kinoliving" group-title="MoviesRU",Kinoliving
+http://cdn-lb.iptv2022.com/p/Ph3xYW3jq1wWz5Dt6OKHyA,1697749211/streaming/kinoliving/324/1/index.m3u8
+#EXTINF:-1 tvg-id="sovkino" group-title="MoviesRU",Советское кино
+http://cdn-lb.iptv2022.com/p/NEEP5Fh7ASH1TQZQUHA2bQ,1700267079/streaming/sovietmovs/324/1/index.m3u8
 #EXTINF:-1 tvg-id="AcasaTV.md" tvg-logo="https://i.imgur.com/k8qpvHb.png" group-title="",Acasa TV
 http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="General",Agro TV
@@ -69,7 +101,7 @@ https://ythls.armelin.one/channel/UChXVCKn5sa-e-bNXjX47lJw.m3u8
 https://5947cbf6e693a.streamlock.net/live/play2/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network
 http://europe3.livetv.az/russia/cartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinema.ru" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="Movies",Cinema
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="MoviesRU",Cinema
 http://176.74.80.162:8099/Cinema/index.m3u8
 #EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="",Columna TV
 http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
@@ -87,7 +119,7 @@ http://moobl.ru/hls/Detsky_mir.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="DobrogeaTV.ro" tvg-logo="https://i.ibb.co/5vqQn2V/fb-logo.png" group-title="General",Dobrogea TV
 https://ythls.armelin.one/channel/UCmYNKMD89Xaxnqg2t-LeZgQ.m3u8
-#EXTINF:-1 tvg-id="DomkinoPremiumHD.ru" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Movies",Dom kino Premium HD
+#EXTINF:-1 tvg-id="DomkinoPremiumHD.ru" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="MoviesRU",Dom kino Premium HD
 http://moobl.ru/hls/Dom_kino_premium_hd.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="News",Dotto TV
 https://dotto.edvr.ro/live/index.m3u8
