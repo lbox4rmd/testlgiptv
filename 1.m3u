@@ -15,6 +15,22 @@ http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 https://storage.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:0 tvg-id="BusuiocTV" tvg-logo="https://i.imgur.com/CQtfBPu.png" group-title="ROMusic", Busuioc TV
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
+#EXTINF:-1 tvg-name="" group-title="Education" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/EnglishClub.png",English Club TV ᴴᴰ 🇬🇧
+http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Education" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 group-title="Documentar" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discovery%20Channel.png",Discovery HD 🇺🇸
+https://bit.ly/416hEXf?/playlistE720p.m3u8
+#EXTINF:-1 group-title="Documentar" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discoverysci.png",Discovery Scienceᴴᴰ ² 🇺🇸
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="wild life" tvg-logo="https://assets.theexplorers.com/img/layout/logo_the_explorer.svg",Explorers 🇺🇸
+https://edge-fast2.evrideo.tv/a1ddb5a6-5a3b-45b0-b09d-c21632782847_0_HLS/manifest.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="wild life" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/naturetime.png",Nature Time 🇺🇸 (Pluto)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="wild life" tvg-logo="https://bit.ly/wildplanett",Wild Planetᴴᴰ 🇺🇸 (Plex)
+https://bit.ly/41ykXoq?/playlist720p.m3u8
+
 #EXTINF:0, tvg-id="TVR Moldova" group-title="ROGeneral", TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
 #EXTINF:0, tvg-id="Moldova TV" group-title="ROGeneral", Moldova TV 
@@ -269,8 +285,5 @@ http://109.171.45.109:81/udp/239.54.5.111:1234
 http://82.209.197.187:8080/udp/239.0.100.82:1234
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Music",VIVA Russia
 http://autopilot.catcast.tv/content/39575/index.m3u8
-#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Education" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTINF:-1 tvg-id="chizhik" group-title="👶 Kids",Чижик HD
 http://cdn-lb.iptv2022.com/p/dvMrjmgVhiGlE_V3_FYFlA,1697749212/streaming/chizhikhd/324/1/index.m3u8
